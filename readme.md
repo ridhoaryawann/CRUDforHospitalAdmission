@@ -25,7 +25,7 @@ The directory structure of IndoMarket project looks like this:
     │
     ├── docs               <- The document will consist of a detailed presentation or images.
     │
-    ├── src                <- Source code for use in this project. main.py contains main feature code.   │                         function_group.py contain code to support main code. data_group.py contain │                         data dummies to help you understand the flow of the code by implementing │                         it to the fucntion                 
+    ├── src                <- Source code for use in this project. main.py contains main feature code. function_group.py contain code to support main code. data_group.py contain data dummies to help you understand the flow of the code by implementing it to the fucntion                 
     │
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                              generated with `pip freeze > requirements.txt`
